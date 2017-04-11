@@ -1,0 +1,74 @@
+#canchaBasquet{
+  width: 1000px;
+  height: 500px;
+  border: 3px;
+  background: #FF8C00;
+  margin-top: 50px;
+  margin-left: 150px;
+  border-radius: 25px;
+}
+#canasta1{
+  position: absolute; top: 770px;
+  width: 200px;
+  height: 350px;
+  border: 3px solid #FFFFFF;
+  -moz-border-radius:0 100px 100px 0;
+  -webkit-border-radius: 0 100px 100px 0;
+  border-radius: 0 100px 100px 0;
+}
+#canasta2{
+  position: absolute; top: 770px;
+  width: 200px;
+  height: 350px;
+  border: 3px solid #FFFFFF;
+  -moz-border-radius: 100px 0 0 100px ;
+  -webkit-border-radius:100px  0 0 100px ;
+  border-radius: 100px 0 0 100px ;
+  left: 952px
+}
+#canasta1A{
+    position: absolute;
+     width: 45px;
+     height: 100px;
+     border: 2px solid #FFFFFF;
+     background: #5cb85c;
+     -moz-border-radius: 0 100px 100px 0;
+     -webkit-border-radius: 0 100px 100px 0;
+     border-radius: 0 100px 100px 0;
+     margin-top: 200px;
+     margin-left: 209px;
+}
+
+#canasta2A{
+    position: absolute;
+     width: 50px;
+     height: 100px;
+     border: 2px solid #FFFFFF;
+     background: #5cb85c;
+     -moz-border-radius: 100px 0 0 100px;
+     -webkit-border-radius: 100px 0 0 100px;
+     border-radius: 100px 0 0 100px;
+     margin-top: 200px;
+     margin-left: 739px;
+}
+
+#centroCancha{
+  position: absolute;
+    width: 100px;
+     height: 100px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     border: 2px solid #FFFFFF;
+     margin-top: 200px;
+     margin-left: 450px;
+}
+
+#lineaCentro2{
+      position: absolute;
+      width: 1px;
+      height: 500px;
+      border: 2px solid #FFFFFF ;
+      margin-top: 0px;
+      margin-left: 500px;
+    }
